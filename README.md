@@ -1,4 +1,5 @@
 # ucakBilet
+
 Normal Tutar = Mesafe * 0.10 = 1500 * 0.10 = 150 TL
 Yaş İndirimi = Normal Tutar * Yaş İndirim Oranı = 150 * 0.10= 15 TL
 İndirimli Tutar = Normal Tutar – Yaş İndirimi = 150 – 15 = 135 TL
